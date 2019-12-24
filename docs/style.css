@@ -1,0 +1,33 @@
+body{
+    background-color: #1e0e82;
+    font-family: sans-serif;
+}
+.main-container{
+    margin-top: 50px !important
+    
+}
+
+.black-ground-site{
+    background-color:#00000033;
+    color:white;
+    padding: 5%;
+}
+
+.transparent-ground-site{
+    background-color:#00000033;
+    color:white;
+    padding: 5%;
+    margin-top: 5px;
+    border: 2px solid white;
+}
+
+.white{
+    background:white;
+}
+.footer-end{
+    bottom: 0;
+    position: absolute;
+    text-align: right;
+    font-style: italic;
+    font-size: medium
+}
